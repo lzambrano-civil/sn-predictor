@@ -344,6 +344,6 @@ st.markdown("""
     Dataset DOI: <a href="https://zenodo.org/records/20585688" target="_blank">10.5281/zenodo.20585688</a> |
     Equation: Mohammad et al. (1999). <i>Transp. Res. Rec.</i>, 1687, 47–54.
     <a href="https://doi.org/10.3141/1687-06" target="_blank">DOI: 10.3141/1687-06</a><br>
-    Developed by Ing. Leonardo Zambrano (UTI Ecuador) &amp; Claude (Anthropic) — 2026
+    Developed by Ing. Leonardo Zambrano (UTI Ecuador) — 2026
 </div>
 """, unsafe_allow_html=True)
