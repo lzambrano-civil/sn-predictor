@@ -1,6 +1,6 @@
 # app.py
 # Structural Number Prediction — Flexible Pavement Design Tool
-# Autores: Ing. Leonardo Zambrano & Claude (Anthropic)
+# Autores: Ing. Leonardo Zambrano 
 # TICEC 2026 | Springer CCIS
 # Dataset: https://zenodo.org/records/20585688 | DOI: 10.5281/zenodo.20585688
 
